@@ -1,5 +1,4 @@
 # Promedio
-Promedio
 Escriba un programa que calcule el promedio de 4 notas ingresadas por el usuario:
 
 Primera nota: 55
